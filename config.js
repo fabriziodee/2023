@@ -84,11 +84,11 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '081398626836'
-global.nomorown = '6289518030035'
-global.nomorown1 = '6289518030035'
-global.nomorown2 = '6289518030035'
-global.nomorwa = '0'
+global.nomorbot = '393518398856'
+global.nomorown = '393518398856'
+global.nomorown1 = '393518398856'
+global.nomorown2 = '393518398856'
+global.nomorwa = '393518398856'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -124,12 +124,12 @@ global.sdc = '-' //discord
 global.snh = 'https://www.youtube.com/channel/Arexans'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '08995946444'
+global.pdana = '393518398856'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '089518030035'
-global.ppulsa2 = '081398626836'
+global.ppulsa = '393518398856'
+global.ppulsa2 = '393518398856'
 global.psaweria = '-'
 
 
@@ -338,9 +338,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/arxans_"
+global.urlnya = "https://www.instagram.com/_Fabri115"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '089518030035'
+global.phn = '393518398856'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
