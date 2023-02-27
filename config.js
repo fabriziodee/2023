@@ -2,16 +2,16 @@
 /*
 ⫰⫯ Note!! Kalo Mau Hapus Ngotak Dulu,Siapa Yg Buat Siapa Yg Kerja Siapa Yang Nyediain Scriptnya
 
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
+𝐀𝐮𝐭𝐡𝐨𝐫 : Fabrizio S
+𝐖𝐚 : 393518398856
 𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
 
 ⫹❰⫺ 𝐵𝐼𝐺 𝑇𝐻𝐴𝑁𝐾𝑆 𝑇𝑂 ⫹❱⫺
-⭝ 𝑨𝒍𝒍𝒂𝒉 𝒀𝒂𝒏𝒈 𝑴𝒂𝒉𝒂 𝑬𝒔𝒂
-⭝ 𝑶𝒓𝒂𝒏𝒈 𝑻𝒖𝒂
-⭝ 𝑻𝒆𝒎𝒆𝒏 𝑮𝒘
-⭝ 𝑴𝒂𝒔𝒕𝒂𝒉 𝑴𝒂𝒔𝒕𝒂𝒉
+⭝ Daniel 
+⭝ Unlimited
+⭝ 
+⭝ 
 
 ⫹⫺ 𝑇𝒉𝑒 𝑁𝑎𝑚𝑒 𝑇𝒉𝑎𝑡 𝐻𝑒𝑙𝑝𝑒𝑑 𝑀𝑒 ⫹⫺
 ⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔
@@ -80,7 +80,7 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6289518030035', 'Aryaa', true]
+['393518398856', 'Fabri', true]
 ]
 global.mods = []
 global.prems = []
@@ -94,34 +94,34 @@ global.nomorwa = '393518398856'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Aryaa'
-global.namebot = '​ Arexans Bot'
-global.wm = '© Arexans Bot By Aryaa'
+global.author = 'Fabri'
+global.namebot = '​ SuperFabri Bot'
+global.wm = '© SuperFabri Bot By Fabri'
 global.media = 'https://i.postimg.cc/fTV0F6TW/thumbnail.jpg'
-global.wm = 'Arexans '
+global.wm = 'SuperFabri '
 global.watermark = wm
-global.wm2 = 'Arexans Bot'
-global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
-global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `Arexans Bot`
-global.stickpack = 'Arexans Bot'
-global.stickauth = `© Arexans`
+global.wm2 = 'SuperFabri Bot'
+global.botdate = `⫹⫺ data: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
+global.bottime = `O R A : ${wktuwib}`
+global.titlebot = `SuperFabri Bot`
+global.stickpack = 'SuperFabri Bot'
+global.stickauth = `© SuperFabri`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Arya'
-global.nameown2 = 'Arya'
+global.nameown1= 'Fabri'
+global.nameown2 = 'Fabri2'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://heylink.me/AryaWebsite'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://www.instagram.com/arxans_'
-global.sgh = 'https://github.com/Arexans' //github
-global.sgc = 'https://chat.whatsapp.com/C27EwBlNagpK1i2sQujORw' //group whatsapp
+global.sig = 'https://www.instagram.com/_Fabri115'
+global.sgh = 'https://github.com/fabriziodee' //github
+global.sgc = 'https://chat.whatsapp.com/' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/channel/Arexans'
+global.snh = 'https://www.youtube.com/channel/'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = '393518398856'
@@ -163,7 +163,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.stiker_wait = '▰▰▰▰▰▰▱▱ 98% 𝚠𝚊𝚒𝚝!!'
 global.wait = '▰▰▰▰▰▰▱▱ 98% 𝚠𝚊𝚒𝚝!!'
-global.eror = 'Mohon Maaf Server Kami Sedang Error!'
+global.eror = 'Siamo spiacenti, il nostro server sta riscontrando un errore!'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND GEME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
